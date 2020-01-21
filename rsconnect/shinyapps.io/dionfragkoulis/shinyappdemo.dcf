@@ -1,0 +1,10 @@
+name: shinyappdemo
+title:
+username:
+account: dionfragkoulis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1681601
+bundleId: 2743383
+url: https://dionfragkoulis.shinyapps.io/shinyappdemo/
+when: 1579607398.34933
